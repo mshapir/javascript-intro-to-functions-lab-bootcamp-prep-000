@@ -10,4 +10,4 @@ function sayHiToGrandma(string) {
   
   if(string.isLowerCase()) { return "I can't hear you!" }
 
-} else if (string.isUpperCase()) {return "YES INDEED!" }
+} 
